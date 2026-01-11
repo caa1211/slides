@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "prettier": "^3.7.4",
+    "prettier-plugin-slidev": "^1.0.5"
+  },
+  "dependencies": {
+    "@iconify-json/iconoir": "^1.2.10",
+    "@iconify-json/mdi": "^1.2.3",
+    "@iconify-json/uim": "^1.2.3"
+  }
+}
